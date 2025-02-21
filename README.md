@@ -1,12 +1,11 @@
 # Create-an-External-Client-App-Using-Metadata-API
 This project demonstrates how to create an External Client App in Salesforce using the Metadata API. It automates the setup process with Salesforce CLI, Visual Studio Code, and SFDX Project, enabling seamless deployment and OAuth 2.0 integration. 
 ### Key Features
-✅ Set up Development Environment – Install Salesforce CLI, VS Code, and enable Dev Hub in your Trailhead Playground. _
-✅ Create an SFDX Project – Generate a structured project to manage metadata files for the external client app. _
-✅ Configure Metadata API – Define OAuth settings, authentication policies, and app details via metadata files. _
-✅ Deploy and Retrieve Metadata – Use Salesforce CLI to deploy the external client app and retrieve its generated policies. _
-✅ OAuth 2.0 Integration – Configure OAuth settings for authentication and test using OpenID Connect Playground. _
-
+ ✅ Set up Development Environment – Install Salesforce CLI, VS Code, and enable Dev Hub in your Trailhead Playground. 
+✅ Create an SFDX Project – Generate a structured project to manage metadata files for the external client app. 
+✅ Configure Metadata API – Define OAuth settings, authentication policies, and app details via metadata files. 
+✅ Deploy and Retrieve Metadata – Use Salesforce CLI to deploy the external client app and retrieve its generated policies. 
+✅ OAuth 2.0 Integration – Configure OAuth settings for authentication and test using OpenID Connect Playground. 
 ### Technologies Used
 🔹 Salesforce CLI
 🔹 Metadata API
